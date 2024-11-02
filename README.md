@@ -35,4 +35,4 @@ With the ongoing rise in diseases and need for efficient healthcare, especially 
 
 ## Technology Stack
 
-- **Python**: Developed using Python 3.11.0, leveraging its dynamic and high-level functionality.
+- **Python**: Developed using Python 3.11.0
