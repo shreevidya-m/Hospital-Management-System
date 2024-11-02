@@ -1,7 +1,8 @@
 # Hospital-Management-System
 This Hospital Management System project was developed  to address critical hospital management needs. It allows for efficient handling of patient records, diagnostics, lab reports, and treatment histories.
 
-
+## 📜 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Problem Statement
 
